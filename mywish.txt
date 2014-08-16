@@ -1,3 +1,4 @@
 I want to learn how to use git.
 I think this will make me fell happy.
 There's something really strange.
+Git has a mutable index called stage.
